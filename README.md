@@ -45,5 +45,5 @@ I specialize in:
 
 ## Contact
 
-- Email: your.email@gmail.com
-- Timezone: IST
+- Email: aditya.ks1010@gmail.com
+  
