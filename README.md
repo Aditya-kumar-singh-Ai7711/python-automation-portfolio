@@ -1,49 +1,142 @@
-# Python Automation & Data Extraction
+# Hi, I'm Aditya Kumar Singh 👋
 
-Hi, I'm Aditya — I help businesses collect and organize online data into clean Excel files.
+## About Me
 
-## What I Do
+🎓 BCA Student (Expected Graduation: 2028)
 
-I specialize in:
-- Web data extraction (listings, prices, contacts)
-- Real estate property lead collection
-- Data cleaning & formatting
-- Excel-ready delivery
+🐍 Python Developer
 
-## Example Work
+🤖 Interested in Automation, Backend Development, Data Processing, and Artificial Intelligence
 
-### Real Estate Property Listings
-- Collected public property listings
-- Extracted price, location, BHK, and contact details
-- Removed duplicates and cleaned data
-- Delivered as Excel file
+📍 Lucknow, India
 
-**Used by:** Property brokers to save time on manual searching
+I enjoy building practical software projects that automate repetitive tasks, collect and process data, and solve real-world problems. Most of my learning comes from building projects, experimenting with new tools, and continuously improving my technical skills.
 
 ---
 
-### General Website Data Extraction
-- Scraped structured data from multiple pages
-- Handled pagination and missing values
-- Exported to Excel / CSV
+## Technical Skills
 
-**Used for:** Market research and lead generation
+### Programming
+
+* Python
+
+### Data Processing & Automation
+
+* Pandas
+* BeautifulSoup
+* Requests
+* Selenium (Basic)
+* OpenPyXL
+* CSV Processing
+* Data Cleaning
+* Automation Scripts
+
+### Web Technologies
+
+* HTML (Basic)
+* CSS (Basic)
+* Flask (Beginner)
+
+### Databases
+
+* SQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
-## How It Works
+## Featured Projects
 
-1. You tell me what data you need
-2. I collect and clean the data
-3. You receive a ready-to-use Excel file
+### 🚀 LeadEngine – Lead Generation & Outreach Automation System
 
-## Delivery
+A Python-based automation tool designed to discover, collect, organize, and qualify business leads.
 
-- Typical delivery time: 2–3 days
-- Format: Excel / CSV
-- One free fix within 7 days if website structure changes
+#### Features
 
-## Contact
+* Business discovery and filtering
+* Contact information extraction
+* Lead scoring
+* Domain deduplication
+* Query tracking
+* Excel export
+* Outreach preparation workflows
 
-- Email: aditya.ks1010@gmail.com
-  
+#### Technologies
+
+Python, Pandas, BeautifulSoup, Requests, Selenium, OpenPyXL
+
+---
+
+### ⚙️ Automation Toolkit
+
+A collection of Python automation scripts created to reduce manual work and improve productivity.
+
+#### Features
+
+* File organization by extension
+* Email automation with attachments
+* CSV processing and data cleaning
+* Structured data handling
+
+#### Technologies
+
+Python, Pandas, OS Module, SMTP
+
+---
+
+### 📊 Web Data Extraction Projects
+
+Built multiple scraping projects for collecting, cleaning, and exporting structured data.
+
+#### Features
+
+* Multi-page scraping
+* Pagination handling
+* Data cleaning
+* CSV export
+* Structured dataset creation
+
+#### Technologies
+
+Python, BeautifulSoup, Requests, Pandas
+
+---
+
+## Certifications
+
+* Introduction to Artificial Intelligence
+* International Conference on Sustainable Innovation 2.0 – Participant & Presenter
+
+---
+
+## Currently Learning
+
+* Backend Development
+* Flask
+* FastAPI
+* PostgreSQL
+* Software Engineering Best Practices
+* Building Production-Ready Applications
+
+---
+
+## Current Goals
+
+* Strengthen Python and software engineering fundamentals
+* Build larger backend projects
+* Learn API development and database design
+* Contribute to real-world software projects
+* Secure a software development internship
+
+---
+
+## Connect With Me
+
+📧 Email: [aditya.ks1010@gmail.com](mailto:aditya.ks1010@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/aditya-kumar-singh-0450733a7](http://www.linkedin.com/in/aditya-kumar-singh-0450733a7)
